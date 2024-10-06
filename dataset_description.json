@@ -9,5 +9,6 @@
     "Funding": [
         "DARPA RAM: N66001-14-2-4032"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital, Dartmouth-Hitchcock Medical Center, University of Texas Southwestern Medical Center."
 }
