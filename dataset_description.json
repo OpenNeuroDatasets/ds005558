@@ -1,0 +1,9 @@
+{
+    "Name": "Categorized Free Recall with Closed-Loop Stimulation at Encoding (Encoding Classifier)",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Haydn G. Herrema",
+        "Michael J. Kahana"
+    ]
+}
